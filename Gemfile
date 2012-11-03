@@ -8,6 +8,7 @@ gem 'dalli'
 gem 'delayed_job_active_record'
 gem 'clockwork'
 gem 'will_paginate'
+gem 'memcachier'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'

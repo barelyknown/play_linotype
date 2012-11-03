@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: play_linotype_development
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: play_linotype_test
+  host: localhost
